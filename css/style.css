@@ -14,7 +14,7 @@ body {
   background-color: var(--blu);
   color: var(--white);
   text-align: center;
-  /* min-height: 50px; */
+  min-height: 20px;
 }
 
 .nasted {
