@@ -1,0 +1,23 @@
+/* Common */
+:root {
+  --green: #00E165;
+  --blu: #006CFA;
+  --white: #fff;
+}
+
+body {
+  background-color: var(--white);
+}
+
+.debug {
+  border: 1px solid var(--white);
+  background-color: var(--blu);
+  color: var(--white);
+  text-align: center;
+  /* min-height: 50px; */
+}
+
+.nasted {
+  background-color: var(--green);
+  border: 1px solid var(--blu);
+}
